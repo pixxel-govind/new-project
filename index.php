@@ -7,5 +7,6 @@
 <body>
 	<h1><a href="#">This is a link</a></h1>
 	<a href="#">Another Link</a>
+	<a href="#">Contact Page</a>
 </body>
 </html>
